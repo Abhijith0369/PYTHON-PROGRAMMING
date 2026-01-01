@@ -1,4 +1,4 @@
-current_year=2025
+/current_year=2025
 final_year=int(input("ENter the final year:"))
 print("Leap years are:")
 for year in range(current_year,final_year+1):
